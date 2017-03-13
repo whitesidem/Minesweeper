@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miesweep_Tests", "Miesweep_Tests\Miesweep_Tests.csproj", "{D729EE0E-BA2B-4E0C-9B04-1CAD8B2E36D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine\GameEngine.csproj", "{3C38D41C-B34F-4F4F-B4F0-D498D8534238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{C955B610-4FE2-4DA0-9617-B3FC464187FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D729EE0E-BA2B-4E0C-9B04-1CAD8B2E36D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D729EE0E-BA2B-4E0C-9B04-1CAD8B2E36D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D729EE0E-BA2B-4E0C-9B04-1CAD8B2E36D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D729EE0E-BA2B-4E0C-9B04-1CAD8B2E36D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C38D41C-B34F-4F4F-B4F0-D498D8534238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C38D41C-B34F-4F4F-B4F0-D498D8534238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C38D41C-B34F-4F4F-B4F0-D498D8534238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C38D41C-B34F-4F4F-B4F0-D498D8534238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C955B610-4FE2-4DA0-9617-B3FC464187FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C955B610-4FE2-4DA0-9617-B3FC464187FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C955B610-4FE2-4DA0-9617-B3FC464187FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C955B610-4FE2-4DA0-9617-B3FC464187FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
